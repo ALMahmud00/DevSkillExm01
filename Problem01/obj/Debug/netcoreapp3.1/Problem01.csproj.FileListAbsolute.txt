@@ -1,0 +1,11 @@
+D:\Personal\C#\Project\exam\Problem01\obj\Debug\netcoreapp3.1\Problem01.csprojAssemblyReference.cache
+D:\Personal\C#\Project\exam\Problem01\obj\Debug\netcoreapp3.1\Problem01.AssemblyInfoInputs.cache
+D:\Personal\C#\Project\exam\Problem01\obj\Debug\netcoreapp3.1\Problem01.AssemblyInfo.cs
+D:\Personal\C#\Project\exam\Problem01\bin\Debug\netcoreapp3.1\Problem01.exe
+D:\Personal\C#\Project\exam\Problem01\bin\Debug\netcoreapp3.1\Problem01.deps.json
+D:\Personal\C#\Project\exam\Problem01\bin\Debug\netcoreapp3.1\Problem01.runtimeconfig.json
+D:\Personal\C#\Project\exam\Problem01\bin\Debug\netcoreapp3.1\Problem01.runtimeconfig.dev.json
+D:\Personal\C#\Project\exam\Problem01\bin\Debug\netcoreapp3.1\Problem01.dll
+D:\Personal\C#\Project\exam\Problem01\bin\Debug\netcoreapp3.1\Problem01.pdb
+D:\Personal\C#\Project\exam\Problem01\obj\Debug\netcoreapp3.1\Problem01.dll
+D:\Personal\C#\Project\exam\Problem01\obj\Debug\netcoreapp3.1\Problem01.pdb

@@ -1,0 +1,10 @@
+D:\Personal\C#\Project\exam\Problem02\bin\Debug\netcoreapp3.1\Problem02.exe
+D:\Personal\C#\Project\exam\Problem02\bin\Debug\netcoreapp3.1\Problem02.deps.json
+D:\Personal\C#\Project\exam\Problem02\bin\Debug\netcoreapp3.1\Problem02.runtimeconfig.json
+D:\Personal\C#\Project\exam\Problem02\bin\Debug\netcoreapp3.1\Problem02.runtimeconfig.dev.json
+D:\Personal\C#\Project\exam\Problem02\bin\Debug\netcoreapp3.1\Problem02.dll
+D:\Personal\C#\Project\exam\Problem02\bin\Debug\netcoreapp3.1\Problem02.pdb
+D:\Personal\C#\Project\exam\Problem02\obj\Debug\netcoreapp3.1\Problem02.AssemblyInfoInputs.cache
+D:\Personal\C#\Project\exam\Problem02\obj\Debug\netcoreapp3.1\Problem02.AssemblyInfo.cs
+D:\Personal\C#\Project\exam\Problem02\obj\Debug\netcoreapp3.1\Problem02.dll
+D:\Personal\C#\Project\exam\Problem02\obj\Debug\netcoreapp3.1\Problem02.pdb
